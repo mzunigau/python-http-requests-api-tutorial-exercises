@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://blue-mandrill-l01lbybf.ws-us03.gitpod.io",
+    "address": "https://copper-louse-ibwq8nym.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -84,7 +84,7 @@
         {
             "slug": "05-project-name",
             "title": "05-project-name",
-            "done": false,
+            "done": true,
             "path": "exercises/05-project-name",
             "translations": [
                 "es",
@@ -95,7 +95,7 @@
         {
             "slug": "06-project-list",
             "title": "06-project-list",
-            "done": false,
+            "done": true,
             "path": "exercises/06-project-list",
             "translations": [
                 "es",
@@ -106,7 +106,7 @@
         {
             "slug": "07-project-list-image",
             "title": "07-project-list-image",
-            "done": false,
+            "done": true,
             "path": "exercises/07-project-list-image",
             "translations": [
                 "es",
